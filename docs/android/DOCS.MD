@@ -7,7 +7,7 @@ You will need:
 * Internet
 
 ## Code
-Open your terminal (like Terminal Emulator)
+Open your terminal (like Terminal Emulator) 
 Install Git:
 ```bash
 sh install git
@@ -20,6 +20,7 @@ Then, run the localhost:
 ```bash
 cd "/service/main.html"
 run localhost at "/service/main.html"
+```
 
 Then, open http://localhost:8080/redirect.html
 
