@@ -19,4 +19,4 @@ For a full documentation for installing it on Android, visit this: https://githu
 
 For a full documentation for installing it on MacOS, visit this: https://github.com/AmixemHello/gitconnect24/blob/main/docs/macos/DOCS.MD
 
-For a full documentation for Installing it on Linux, visit this: https://github.com/AmixemHello/gitconnect24/blob/main/docs/linux/DOCS.MD
+For a full documentation for installing it on Linux, visit this: https://github.com/AmixemHello/gitconnect24/blob/main/docs/linux/DOCS.MD
