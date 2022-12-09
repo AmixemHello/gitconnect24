@@ -1,4 +1,4 @@
-# gitconnect24
+# GitConnect24
 To install the service, execute:
 ```bash
 git clone gitconnect24
