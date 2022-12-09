@@ -13,3 +13,6 @@ You will need:
 * Windows 8.0 or later/Android 6.3 or later
 * Terminal (only needed for Android)
 * Internet
+
+## All docs
+For a full documentation for installing it on Android, visit this: https://github.com/AmixemHello/gitconnect24/blob/main/docs/android/DOCS.MD
