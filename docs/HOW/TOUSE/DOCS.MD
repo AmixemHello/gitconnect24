@@ -32,3 +32,7 @@ Now create a new file (named LIT.MANIFEST)
 Make sure that the file is in the root of the folder.
 
 ![](https://firebasestorage.googleapis.com/v0/b/plus-6aaf1.appspot.com/o/20221211_115041.jpg?alt=media&token=b9f8cbc2-fe9e-4959-afdd-20bdd10cacd5)
+
+Now, open the file, then, write the following text:
+
+![](https://firebasestorage.googleapis.com/v0/b/plus-6aaf1.appspot.com/o/20221216_171837.jpg?alt=media&token=8836a4d9-827f-4fed-b681-8943d37d82af)
