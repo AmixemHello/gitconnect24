@@ -49,3 +49,31 @@ In Terminal Emulator, execute:
 git install app_ABC123
 git run app_ABC123
 ```
+If "Hello World!" text appears, skip part 3, if it's dosen't appears, skip nothing.
+
+## Part 3
+
+If your app dosen't work, verify your Terminal version.
+
+For help you, here is the table with supported versions.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | Depracted                |
+| 4.0.x   | :x: |
+| < 4.0   | :x:                |
+| 3.6.x   | Depracted                |
+| < 3.2   | Depracted                |
+| 2.6.x   | :white_check_mark: |
+| < 2.4   | :x:                |
+| 1.6.x   | Depracted                |
+| < 1.5   | :x:                |
+| 1.2.x   | :x:                |
+| < 1.1   | :x:                |
+| 0.6.x   | Depracted                |
+| < 0.5   | :x:                |
+
+Now, verify your Terminal version.
+
+If it's not that, verify [this]().
