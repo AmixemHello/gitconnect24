@@ -36,3 +36,16 @@ Make sure that the file is in the root of the folder.
 Now, open the file, then, write the following text:
 
 ![](https://firebasestorage.googleapis.com/v0/b/plus-6aaf1.appspot.com/o/20221216_171837.jpg?alt=media&token=8836a4d9-827f-4fed-b681-8943d37d82af)
+
+Just to say, the "Hello World!" text is only for testing that it's works, if it work for you, skip to part 4.
+
+## Part 2
+
+You need to test your app, so, install Carrier Services, then, install Terminal Emulator.
+
+In Terminal Emulator, execute:
+
+```bash
+git install app_ABC123
+git run app_ABC123
+```
