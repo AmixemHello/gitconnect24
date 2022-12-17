@@ -76,4 +76,6 @@ For help you, here is the table with supported versions.
 
 Now, verify your Terminal version.
 
-If it's not that, verify [this]().
+If it's not that, verify [this](https://github.com/AmixemHello/gitconnect24/wiki/What-versions-of-Git-are-supported%3F).
+
+## Part 4
