@@ -77,8 +77,10 @@ For help you, here is the table with supported versions.
 Now, verify your Terminal version.
 
 If it's not that, verify [this](https://github.com/AmixemHello/gitconnect24/wiki/What-versions-of-Git-are-supported%3F).
+
 If it also not that, check [this wiki](https://github.com/AmixemHello/gitconnect24/wiki/Plugins-Problem).
 
+If the app work, but it show nothing, check [this](https://github.com/AmixemHello/gitconnect24/wiki/The-app-works,-but-it-show-nothing)
 
 
 ## Part 4
